@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ActivatePlayerZoneOnAllNodesActivated.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NodeManager.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\ActivatePlayerNodeOnClicked.cs" Line="19" Column="4" />
+      <File FileName="Assets\Scripts\ZoneManager.cs" Line="14" Column="46" />
+      <File FileName="Assets\Scripts\ActivatePlayerZoneOnAllNodesActivated.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Node.cs" Line="4" Column="24" />
+      <File FileName="Assets\Scripts\PlayerZone.cs" Line="9" Column="24" />
+      <File FileName="Assets\Scripts\GridManager.cs" Line="14" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
